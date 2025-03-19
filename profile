@@ -3,9 +3,6 @@ My name is Jethro Lopwus A Highly skilled and versatile Software Developer with 
 Adept at designing, developing, and deploying scalable, secure, and high-performance web applications and decentralized systems.
 Passionate about leveraging cutting-edge technologies to solve complex problems and deliver innovative solutions.
 
-<!--
-**Jethrolopwus/Jethrolopwus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
