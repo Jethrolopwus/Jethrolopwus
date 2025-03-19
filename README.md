@@ -1,5 +1,5 @@
-# Hi there 👋
-Highly skilled and versatile Software Developer with extensive experience in full-stack development, specializing in frontend technologies like JavaScript, React.js, and Next.js, and backend development using Node.js. Proven expertise in blockchain development with hands-on experience in Solidity, Cairo, Go (Golang), and Rust. Adept at designing, developing, and deploying scalable, secure, and high-performance web applications and decentralized systems. Passionate about leveraging cutting-edge technologies to solve complex problems and deliver innovative solutions.
+## Hi there 👋
+## Highly skilled and versatile Software Developer with extensive experience in full-stack development, specializing in frontend technologies like JavaScript, React.js, and Next.js, and backend development using Node.js. Proven expertise in blockchain development with hands-on experience in Solidity, Cairo, Go (Golang), and Rust. Adept at designing, developing, and deploying scalable, secure, and high-performance web applications and decentralized systems. Passionate about leveraging cutting-edge technologies to solve complex problems and deliver innovative solutions.
 
 <!--
 **Jethrolopwus/Jethrolopwus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
