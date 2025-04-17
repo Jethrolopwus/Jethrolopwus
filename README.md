@@ -1,17 +1,29 @@
-## Hi there 👋
-## Highly skilled and versatile Software Developer with extensive experience in full-stack development, specializing in frontend technologies like JavaScript, React.js, and Next.js, and backend development using Node.js. Proven expertise in blockchain development with hands-on experience in Solidity, Cairo, Go (Golang), and Rust. Adept at designing, developing, and deploying scalable, secure, and high-performance web applications and decentralized systems. Passionate about leveraging cutting-edge technologies to solve complex problems and deliver innovative solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+Jethro+Lopwus.;A+passionate+Software+Engineer" alt="Typing SVG" align="middle" width="100%" />
 
-<!--
-**Jethrolopwus/Jethrolopwus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👯 Hello i am a blockchain developer with expereince building on the ethereum blockchain and other layer 2 blockchains.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3>Connect with me</h3>
+
+<div style="margin-top:10px">
+  <div>
+    <a  href="https://www.linkedin.com/in/jethro-lopwus-4b3285197/" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
+    </a>
+    <a href="https://x.com/Jethrosmitt" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+    </a>
+  </div>
+</div>
+
+
+
+
+<h3>Reach me</h3>
+
+<p>
+  <a href="mailto:lopwusjethro92@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+</p>
